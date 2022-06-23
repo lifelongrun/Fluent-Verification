@@ -36,6 +36,8 @@ The flow is steady. The tangential velocity at various sections can be calculate
 
 <img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg" width="200px">
 
+<img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg">
+
 ## 02.网格划分
 
 ![Mesh: 网格划分](images/vm-image01/3.jpg)
