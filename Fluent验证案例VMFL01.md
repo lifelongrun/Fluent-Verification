@@ -36,9 +36,8 @@ The flow is steady. The tangential velocity at various sections can be calculate
 <!--![SCDM中: 二维模型](images/vm-image01/2.jpg)
 -->
 
-<img src="/images/vm-image01/3.jpg" width="400px">
+<img src="/images/vm-image01/2.jpg" width="400px">
 
-<img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg" >
 
 ## 02.网格划分
 
