@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 Fluent验证案例：VMFL-01
 
 - *Flow Between Rotating and Srationary Concentric Cylinders <sup>[1]</sup>*
@@ -36,7 +38,7 @@ The flow is steady. The tangential velocity at various sections can be calculate
 
 <img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg" width="200px">
 
-<img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg">
+<img src="https://github.com/lifelongrun/Fluent-Verification/raw/main/images/vm-image01/3.jpg" >
 
 ## 02.网格划分
 
