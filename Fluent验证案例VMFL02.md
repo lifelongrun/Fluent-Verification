@@ -47,6 +47,7 @@ The flow is steady and incompressible. Pressure drop can be calculated from the 
 ![Fluent参数设置要点](images/vm-image02/5.jpg)
 
 层流时，流体在圆管内充分发展后，管中距轴线距离为r处质点流速为<sup>[4]</sup>：
+
 $$
 u_r = u_{max} \times [1-(\frac {r} {R})^2] = 2 \times u\times [1-(\frac {r} {R})^2]
 $$
