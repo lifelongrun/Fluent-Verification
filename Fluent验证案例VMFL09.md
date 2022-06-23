@@ -3,14 +3,6 @@ Fluent验证案例：VMFL-09
 - *Natural Convection in a Concentric Annulus<sup>[1]</sup>*.
 *(同心管内自然对流）*
 
----
-
-**目录**
-
-[TOC]
-
----
-
 ## 00.案例描述
 
 ### Physics/Model

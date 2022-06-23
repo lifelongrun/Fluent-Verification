@@ -3,14 +3,6 @@ Fluent验证案例：VMFL-08
 - *Non-Newtonian Flow in a Pipe<sup>[1]</sup>*.
 *(旋转腔体流动计算）*
 
----
-
-**目录**
-
-[TOC]
-
----
-
 ## 00.案例描述
 
 ### Physics/Model

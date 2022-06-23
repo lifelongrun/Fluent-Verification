@@ -3,13 +3,6 @@ Fluent验证案例：VMFL-06
 - *Multicomponent Species Transport in Pipe Flow<sup>[1]</sup>*.
 *(管内的多组分流动）*
 
----
-
-**目录**
-[TOC]
-
----
-
 ## 00.案例描述
 
 ### Physics/Model
